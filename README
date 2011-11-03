@@ -1,0 +1,11 @@
+h1. Remine Bootstrap
+
+Redmine Bootstrap is a an attempt to make a simple there for Redmine. This is very much a work in progress. This has been developed on Redmine version 0.9.
+
+Collaborators welcome!
+
+h2. Installation
+
+Just check this director out into your ~/redmine/public/themes/ folder.
+
+In Redmine, under Administration find Settings. Depending on the Redmine version, there will either be a Display tab, or a single configuration page with a Theme dropdown. Select the new theme and save.
